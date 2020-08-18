@@ -1,2 +1,6 @@
 # TIL
-Today I  Learn 
+Today I  Learn
+: google colab 
+: git hub
+: kaggle
+: scikit-learn
