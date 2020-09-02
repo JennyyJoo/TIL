@@ -1,6 +1,4 @@
 # TIL
-Today I  Learn
-: google colab 
-: git hub
-: kaggle
-: scikit-learn
+Today I  Learn ( youth_bigdata)
+1. Machine Learning
+2. Natural Language Processing
