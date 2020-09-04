@@ -5,4 +5,7 @@ Today I  Learned ( youth_bigdata)
   : Word Representaiton (Discrete Representaiton)
     - one-hot encoding
     - Ngram
-    -Count Based Method: BoW/ TDM / TF-IDF
+    - Count Based Method
+        - BoW
+        - TDM 
+        - TF-IDF
